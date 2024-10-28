@@ -1,5 +1,4 @@
-User-agent 
-Disallow
+User-agent: *
+Disallow:
 
-Sitemap https://khamiscarpenter.netlify.app/sitemap.xml
-
+Sitemap: https://khamiscarpenter.netlify.app/sitemap.xml
